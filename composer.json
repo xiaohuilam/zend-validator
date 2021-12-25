@@ -16,8 +16,8 @@
         "forum": "https://discourse.zendframework.com/c/questions/components"
     },
     "require": {
-        "php": "^7.1",
-        "zendframework/zend-stdlib": "^3.2.1",
+        "php": ">=7.1",
+        "zendframework/zend-stdlib": ">=3.2.1",
         "container-interop/container-interop": "^1.1"
     },
     "require-dev": {
