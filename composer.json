@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zend-validator",
+    "name": "xiaohuilam/zend-validator",
     "description": "Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria",
     "license": "BSD-3-Clause",
     "keywords": [
@@ -16,9 +16,9 @@
         "forum": "https://discourse.zendframework.com/c/questions/components"
     },
     "require": {
-        "php": "^7.1",
-        "zendframework/zend-stdlib": "^3.2.1",
-        "container-interop/container-interop": "^1.1"
+        "php": ">=7.1",
+        "zendframework/zend-stdlib": ">=3.2.1",
+        "container-interop/container-interop": ">=1.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^6.0.8 || ^5.7.15",
